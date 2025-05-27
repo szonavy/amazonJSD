@@ -1,4 +1,4 @@
-package firsttask;
+package firstmodul.firsttask;
 
 public class MyFirstProgram {
     public static void main(String[] args) {

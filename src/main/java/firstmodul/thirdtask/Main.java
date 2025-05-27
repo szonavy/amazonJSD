@@ -1,4 +1,4 @@
-package thirdtask;
+package firstmodul.thirdtask;
 
 public class Main {
     public static void main(String[] args) {
