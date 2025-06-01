@@ -1,0 +1,1 @@
+Person{name='John', age=30, weight=132.8}
