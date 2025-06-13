@@ -1,4 +1,4 @@
-package thirdsession;
+package thirdsession.firsttask;
 
 public class Student {
     private int rollNumber;

@@ -1,4 +1,4 @@
-package thirdsession;
+package thirdsession.firsttask;
 
 public class Main {
     public static void main(String[] args){
